@@ -28,11 +28,6 @@ This simple script generates a random compliment to brighten your day. Just run 
 - Randomly generates compliments 🎉
 - Simple and quick to use 
 - Easy to customize for more personalized compliments 💬
-
-
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 **Have a great day, and remember—You're amazing!** 😎
