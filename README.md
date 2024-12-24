@@ -1,4 +1,4 @@
-# Powershell Compliment Generator ✨
+# Powershell Compliment Generator 
 
 Hey! Welcome to my **Powershell Compliment Generator**! 🙌
 
@@ -21,15 +21,15 @@ This simple script generates a random compliment to brighten your day. Just run 
    .\ComplimentsGenerator.ps1
    ```
 
-4. Enjoy the good vibes! 🌟
+4. Enjoy the good vibes! 
 
 ## Features
 
 - Randomly generates compliments 🎉
-- Simple and quick to use ✨
+- Simple and quick to use 
 - Easy to customize for more personalized compliments 💬
 
-## License
+
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
