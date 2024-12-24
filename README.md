@@ -30,4 +30,4 @@ This simple script generates a random compliment to brighten your day. Just run 
 - Easy to customize for more personalized compliments 💬
 ---
 
-**Have a great day, and remember—You're amazing!** 😎
+**Have a great day!
